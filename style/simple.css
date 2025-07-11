@@ -1,3 +1,10 @@
+
+body{
+  background-color: #f5f8ff;
+  margin: auto;
+  font-family:  sans-serif;
+  font-weight: 400;
+}
 .my-font{
   font-family: "Tiktok Sans"sans-serif;
   font-optical-sizing: auto;
@@ -5,13 +12,15 @@
   font-style: normal;
   font-variation-settings: "slnt" 0 "wdth"100;
 }
-body{
-  background-color: #f5f8ff;
-  margin: auto;
-  font-family:  sans-serif;
-  font-weight: 400;
+button{
+  border: none;
 }
-
+button:hover{
+  color: rgb(255, 255, 255);
+  background-color: #4E47FF;
+  transition: o.5s;
+  box-shadow: 5px 5px  1px rgb(217, 213, 213);
+}
 
 nav{
   display: flex;
