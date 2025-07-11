@@ -1,0 +1,19 @@
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-title{
+  font-size: 35px;
+  font-weight: 600;
+  color: #4E47FF;
+}
+.text-title{
+  font-size: 15px;
+  color:#FFFFFF;
+  background-color: #4E47FF;
+  font-weight: bold;
+  margin-top: 10px;
+  
+  
+}
